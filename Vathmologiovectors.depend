@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1656335703 source:e:\vathmologiovectors\src\courses.cpp
+	"Courses.h"
+
+1656335704 e:\vathmologiovectors\include\courses.h
+	<string>
+
+1656334041 source:e:\vathmologiovectors\src\students.cpp
+	"Students.h"
+
+1656335704 e:\vathmologiovectors\include\students.h
+	<string>
+
+1656352422 source:e:\vathmologiovectors\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<Students.h>
+	<Courses.h>
+	<fstream>
+
